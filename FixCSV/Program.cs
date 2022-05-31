@@ -46,6 +46,11 @@
                                  line break, followed by a Windows line break.
 
     2021/01/02 1.2     DAGray Display the initial and final line counts.
+
+    2022/05/31 1.3     DAGray Fix a MissingMethodException raised by the Trace
+                              Listener subsystem. This fix is accompanied by a
+                              minor update of the WizardWrx .NET API packages
+                              that are included herein.
     ============================================================================
 */
 
@@ -58,6 +63,7 @@ using WizardWrx;
 using WizardWrx.ConsoleAppAids3;
 using WizardWrx.Core;
 using WizardWrx.DLLConfigurationManager;
+
 
 namespace FixCSV
 {

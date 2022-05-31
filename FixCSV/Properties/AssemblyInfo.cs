@@ -10,7 +10,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyConfiguration ( "" )]
 [assembly: AssemblyCompany ( "David A. Gray" )]
 [assembly: AssemblyProduct ( "FixCSV" )]
-[assembly: AssemblyCopyright ( "Copyright © 2020-2021 David A. Gray." )]
+[assembly: AssemblyCopyright ( "Copyright © 2020-2022 David A. Gray." )]
 [assembly: AssemblyTrademark ( "All rights reserved world wide." )]
 [assembly: AssemblyCulture ( "" )]
 
@@ -32,5 +32,5 @@ using System.Runtime.InteropServices;
 // You can specify all the values or you can default the Build and Revision Numbers
 // by using the '*' as shown below:
 // [assembly: AssemblyVersion("1.0.*")]
-[assembly: AssemblyVersion ( "1.2.12.0" )]
-[assembly: AssemblyFileVersion ( "1.2.12.0" )]
+[assembly: AssemblyVersion ( "1.3.14.0" )]
+[assembly: AssemblyFileVersion ( "1.3.14.0" )]
